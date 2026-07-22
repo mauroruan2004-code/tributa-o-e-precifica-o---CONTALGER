@@ -1,0 +1,27 @@
+{
+  "name": "Contalger | Tributação e Precificação PI/MA",
+  "short_name": "Contalger PI/MA",
+  "description": "Plataforma Contalger de tributação e precificação para Piauí e Maranhão.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf3f7",
+  "theme_color": "#0e2e47",
+  "lang": "pt-BR",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
